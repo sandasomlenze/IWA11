@@ -24,10 +24,10 @@ status1.textContent = root1.dataset.status === "true" ? "Delivered" : "Pending" 
 biscuits2.textContent = root2.dataset.biscuits;
 donuts2.textContent = root2.dataset.donuts;
 pancakes2.textContent = root2.dataset.pancakes;
-status2.textContent = root2.dataset.status === "true" ? "Delivered" : "Pending"
+status2.textContent = root2.dataset.status === "true" ? "Delivered" : "Pending";
 
 biscuits3.textContent = root3.dataset.biscuits;
 donuts3.textContent = root3.dataset.donuts;
 pancakes3.textContent = root3.dataset.pancakes;
-status3.textContent = root3.dataset.status === "true" ? "Delivered" : "Pending"
+status3.textContent = root3.dataset.status === "true" ? "Delivered" : "Pending";
 
